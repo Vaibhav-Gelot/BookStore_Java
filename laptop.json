@@ -1,0 +1,57 @@
+{
+  "id": "bbcbcce7-ec06-440e-98ff-22a65c6fc2da",
+  "brand": "Dell",
+  "name": "XPS",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i3-1005G1",
+    "number_cores": 7,
+    "number_threads": 7,
+    "min_ghz": 3.135314405E8,
+    "max_ghz": 0.0
+  },
+  "ram": {
+    "value": "43",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [{
+    "brand": "AMD",
+    "name": "RX 5700-XT",
+    "min_ghz": 3.08432151E8,
+    "max_ghz": -4.8957681818175629E17,
+    "memory": {
+      "value": "3",
+      "unit": "GIGABYTE"
+    }
+  }],
+  "storages": [{
+    "driver": "SSD",
+    "memory": {
+      "value": "383",
+      "unit": "GIGABYTE"
+    }
+  }, {
+    "driver": "HHD",
+    "memory": {
+      "value": "3",
+      "unit": "TERABYTE"
+    }
+  }],
+  "screen": {
+    "size_inch": 13.702229,
+    "resolution": {
+      "width": 5582,
+      "height": 3140
+    },
+    "panel": "OLED",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "QWERTZ",
+    "backlit": false
+  },
+  "weight_kg": 1.005631259E9,
+  "price_usd": 1.7374008755E12,
+  "release_year": 2017,
+  "updated_at": "2023-09-09T08:01:54.279169400Z"
+}
