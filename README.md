@@ -1,1 +1,1 @@
-A gRPC based bookstore demo project
+A gRPC based pcbook demo project
